@@ -1,2 +1,2 @@
 # Udacity-frist-project
-Bike-sharing patterns
+This is the first project of Udacity's Deep Learning Nanodgree.
